@@ -1,0 +1,17 @@
+{
+    "python.pythonPath": "../env/bin/python",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        ".vscode": true,
+        "**/*.pyc": true,
+        "**/__pycache__/": true
+    },
+}
